@@ -18,3 +18,10 @@ Travel Planner is an agent-based web application built using Streamlit and LangC
 - Then The app will return the locations to visit along with the weather forecast
 - Then the user can select the budget range
 - Then the app will return the entire budget for the trip
+
+---
+
+
+## 👨‍💻 Author
+
+Akash Jalapati
